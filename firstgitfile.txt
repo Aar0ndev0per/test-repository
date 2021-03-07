@@ -1,4 +1,1 @@
 line number1
-line number2
-line number3
-line number4
