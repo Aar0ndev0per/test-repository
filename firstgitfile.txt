@@ -4,3 +4,4 @@ line number3
 line number4 branch2
 
 lastline
+lastline1
